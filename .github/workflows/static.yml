@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Unicorn-themed product reviews for toys and apparel, featuring the best deals on Amazon.">
+    <title>Steve's Unicorn Reviews</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff99cc;
+            padding: 20px;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            color: white;
+        }
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .product-review {
+            background-color: white;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .product-review h2 {
+            color: #ff66b2;
+        }
+        .product-review img {
+            width: 100%;
+            max-width: 300px;
+            border-radius: 8px;
+        }
+        .product-review p {
+            line-height: 1.6;
+        }
+        .amazon-link {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #ff66b2;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+        .amazon-link:hover {
+            background-color: #ff3385;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #ff99cc;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    Steve's Unicorn Reviews
+</header>
+
+<div class="container">
+
+    <div class="product-review">
+        <h2>Magical Unicorn Plush Toy</h2>
+        <img src="https://example.com/unicorn-toy.jpg" alt="Magical Unicorn Plush Toy">
+        <p>This adorable unicorn plush toy is perfect for kids of all ages. It’s soft, colorful, and has a magical design that will capture anyone’s imagination. I loved how durable and cuddly it is, making it a great gift for unicorn lovers. Check it out on Amazon below!</p>
+        <a href="https://www.amazon.com/example-unicorn-toy" class="amazon-link">Buy on Amazon</a>
+    </div>
+
+    <div class="product-review">
+        <h2>Unicorn Rainbow T-shirt</h2>
+        <img src="https://example.com/unicorn-shirt.jpg" alt="Unicorn Rainbow T-shirt">
+        <p>This bright and fun unicorn-themed t-shirt is great for kids who love to showcase their unicorn style. It’s made from high-quality cotton and has a vibrant rainbow design that really stands out. A perfect addition to any wardrobe!</p>
+        <a href="https://www.amazon.com/example-unicorn-shirt" class="amazon-link">Buy on Amazon</a>
+    </div>
+
+</div>
+
+<footer>
+    &copy; 2024 Steve's Unicorn Reviews - Powered by Affiliate Marketing
+</footer>
+
+</body>
+</html>
